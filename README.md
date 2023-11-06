@@ -5,7 +5,6 @@ Computer Engineer
 -----------------
 
 * ✉️  You can contact me at [cagrikaracamm@gmail.com](mailto:cagrikaracamm@gmail.com)
-* 🧠  I'm learning unity
 
 ### Skills
 
